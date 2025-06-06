@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-white text-gray-800 font-sans">
       <section className="bg-gray-100 py-16 px-4 text-center">
-        <h1 className="text-4xl font-bold mb-4">FinkAboutIt - Praxis für Verhaltenstherapie</h1>
+        <h1 className="text-4xl font-bold mb-4">Praxis für Verhaltenstherapie</h1>
         <p className="text-lg mb-2">Schwerpunkt: Zwangsstörungen</p>
         <p className="text-md text-gray-600">Individuell. Wissenschaftlich fundiert. Diskret.</p>
       </section>
@@ -38,7 +38,7 @@ export default function Home() {
 
       <section className="py-12 px-6 max-w-3xl mx-auto">
         <h2 className="text-2xl font-semibold mb-4">Ablauf & Kosten</h2>
-        <p className="mb-2">Eine Therapiesitzung (50 Minuten) kostet 100–120 €. Die Behandlung erfolgt ausschließlich für Selbstzahler. Termine sind begrenzt verfügbar.</p>
+        <p className="mb-2">Eine Therapiesitzung (50 Minuten) kostet 120 €. Die Behandlung erfolgt ausschließlich für Selbstzahler. Termine sind begrenzt verfügbar.</p>
       </section>
 
       <section className="bg-gray-100 py-12 px-6 max-w-3xl mx-auto">
