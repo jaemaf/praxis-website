@@ -2,9 +2,9 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-white text-gray-800 font-sans">
       <section className="bg-gray-100 py-16 px-4 text-center">
-        <h1 className="text-4xl font-bold mb-4">Praxis für Verhaltenstherapie</h1>
+        <h1 className="text-4xl font-bold mb-4">Praxis für Verhaltenstherapie - Berlin-Steglitz</h1>
         <p className="text-lg mb-2">Prof. Dr. Jakob Fink-Lamotte</p>
-        <p className="text-md text-gray-600">Für Patient:innen mit Zwangserkrankungen</p>
+        <p className="text-md text-gray-600">Psychotherapie für Zwangserkrankungen</p>
       </section>
 
       <section className="py-12 px-6 max-w-3xl mx-auto">
@@ -19,7 +19,7 @@ export default function Home() {
           <p>
             Ich bin approbierter Psychologischer Psychotherapeut mit dem Schwerpunkt Verhaltenstherapie. Spezialisiert auf die Behandlung von Zwangsstörungen. Mehr Informationen finden Sie auf meiner{' '}
             <a className="text-blue-600 underline" href="https://www.uni-potsdam.de/de/klinische-psychologie/prof-dr-jakob-fink-lamotte/biographie" target="_blank" rel="noopener noreferrer">
-              universitären Profilseite
+              universitären Profilseite.
             </a>.
           </p>
         </div>
