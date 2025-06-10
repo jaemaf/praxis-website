@@ -12,7 +12,7 @@ export default function Home() {
         <div className="flex flex-col md:flex-row items-center gap-6">
           <img
             src="/profilbild.jpg"
-            alt="Profilbild Jakob Fink-Lamotte"
+            alt="Psychotherapeut Prof. Dr. Jakob Fink-Lamotte Berlin-Steglitz und Potsdam"
             className="w-40 h-40 rounded-full object-cover border shadow"
           />
 
