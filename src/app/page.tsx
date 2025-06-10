@@ -32,13 +32,13 @@ export default function Home() {
           <li>Schwerpunkt: Zwangsstörungen</li>
           <li>Einzelsitzungen (50 Minuten)</li>
           <li>2–4 Stunden Therapieverfügbarkeit pro Woche</li>
-          <li>Selbstzahlerleistung</li>
+          <li>Selbstzahlerleistung oder Private Krankenversicherung</li>
         </ul>
       </section>
 
       <section className="py-12 px-6 max-w-3xl mx-auto">
         <h2 className="text-2xl font-semibold mb-4">Ablauf & Kosten</h2>
-        <p className="mb-2">Eine Therapiesitzung (50 Minuten) kostet 120 €. Die Behandlung erfolgt ausschließlich für Selbstzahler. Termine sind begrenzt verfügbar.</p>
+        <p className="mb-2">Eine Therapiesitzung (50 Minuten) kostet 110 €. Die Behandlung erfolgt ausschließlich für Selbstzahler. Termine sind begrenzt verfügbar.</p>
       </section>
 
       <section className="bg-gray-100 py-12 px-6 max-w-3xl mx-auto">
