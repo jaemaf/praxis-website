@@ -4,11 +4,11 @@ export default function Impressum() {
       <h1 className="text-3xl font-bold mb-6">Impressum</h1>
       <p className="mb-2">Angaben gemäß § 5 TMG:</p>
       <p className="mb-2">
-        Dr. Jakob Fink-Lamotte<br />
-        Praxis für Verhaltenstherapie<br />
+        Prof. Dr. Jakob Fink-Lamotte<br />
+        Praxis für Verhaltenstherapie Fink-Lamotte<br />
         [Deine Adresse]<br />
         [Deine Telefonnummer]<br />
-        kontakt@praxis-fink.de
+        mail@praxis-finklamotte.de
       </p>
       <p className="mt-6 text-sm text-gray-500">Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV: Dr. Jakob Fink-Lamotte</p>
     </main>

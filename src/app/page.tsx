@@ -3,8 +3,8 @@ export default function Home() {
     <main className="min-h-screen bg-white text-gray-800 font-sans">
       <section className="bg-gray-100 py-16 px-4 text-center">
         <h1 className="text-4xl font-bold mb-4">Praxis für Verhaltenstherapie</h1>
-        <p className="text-lg mb-2">Schwerpunkt: Zwangsstörungen</p>
-        <p className="text-md text-gray-600">Individuell. Wissenschaftlich fundiert. Diskret.</p>
+        <p className="text-lg mb-2">Prof. Dr. Jakob Fink-Lamotte</p>
+        <p className="text-md text-gray-600">Für Patient:innen mit Zwangserkrankungen</p>
       </section>
 
       <section className="py-12 px-6 max-w-3xl mx-auto">
@@ -43,15 +43,10 @@ export default function Home() {
 
       <section className="bg-gray-100 py-12 px-6 max-w-3xl mx-auto">
         <h2 className="text-2xl font-semibold mb-4">Kontakt & Terminbuchung</h2>
-        <p className="mb-2">Sie können direkt einen Termin online buchen oder mich per E-Mail kontaktieren.</p>
-        <a
-          href="https://calendly.com/deinname/praxis-termin" 
-          target="_blank" 
-          rel="noopener noreferrer"
-          className="inline-block bg-blue-600 text-white px-6 py-3 rounded-xl hover:bg-blue-700"
-        >
-          Termin buchen
-        </a>
+          <p className="mb-4">
+            Sie können direkt einen Termin online buchen oder mich per{' '}
+          <a href="mailto:mail@praxis-finklamotte.de" className="text-blue-600 underline">E-Mail kontaktieren</a>.
+        </p>
       </section>
 
       <footer className="text-center text-sm text-gray-500 py-8">
